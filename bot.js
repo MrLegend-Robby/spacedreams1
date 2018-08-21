@@ -8,4 +8,6 @@ function color () {
   });
 }
 
+console.log('Working');
+
 bot.login("NDgxMDkzMzYwNDgwODEzMDU2.DlxaEg.4a1sHrzPWNhDIeumdyJAyqFlt0k")
