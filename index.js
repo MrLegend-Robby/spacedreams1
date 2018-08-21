@@ -8,4 +8,4 @@ function color () {
   });
 }
 
-bot.login(process.env.TOKEN)
+bot.login("NDgxMDkzMzYwNDgwODEzMDU2.DlxaEg.4a1sHrzPWNhDIeumdyJAyqFlt0k")
