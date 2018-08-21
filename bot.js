@@ -12,4 +12,4 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-bot.login('NDgxMDkzMzYwNDgwODEzMDU2.DlxaEg.4a1sHrzPWNhDIeumdyJAyqFlt0k');
+bot.login('NDgxMDkzMzYwNDgwODEzMDU2.Dl2HFQ.hzDbUxGVa2kHs7Fqr1T59a8KORM');
